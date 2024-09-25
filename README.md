@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sgomezsosa
 - 👀 I’m interested in ...Software Development, Cloud Computing, Arduino projects and AI
-- 🌱 I’m currently learning ...Cloud Computing, with GCP
-- 💞️ I’m looking to collaborate on ...AI projects
+- 🌱 I’m currently learning ... AI & Mastering Cloud Computing
+- 💞️ I’m looking to collaborate on ... AI projects
 - 📫 How to reach me ...@sgomezsosa in Twitter and Instagram!
 
 <!---
